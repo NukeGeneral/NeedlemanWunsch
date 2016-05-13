@@ -1,0 +1,14 @@
+﻿  Source.cpp
+d:\visual basic projeler\consoleapplication3\consoleapplication3\source.cpp(55): warning C4018: '<=': signed/unsigned mismatch
+d:\visual basic projeler\consoleapplication3\consoleapplication3\source.cpp(58): warning C4018: '<=': signed/unsigned mismatch
+d:\visual basic projeler\consoleapplication3\consoleapplication3\source.cpp(65): warning C4018: '<=': signed/unsigned mismatch
+d:\visual basic projeler\consoleapplication3\consoleapplication3\source.cpp(68): warning C4018: '<=': signed/unsigned mismatch
+d:\visual basic projeler\consoleapplication3\consoleapplication3\source.cpp(75): warning C4018: '<=': signed/unsigned mismatch
+d:\visual basic projeler\consoleapplication3\consoleapplication3\source.cpp(79): warning C4018: '<=': signed/unsigned mismatch
+d:\visual basic projeler\consoleapplication3\consoleapplication3\source.cpp(91): warning C4018: '<=': signed/unsigned mismatch
+d:\visual basic projeler\consoleapplication3\consoleapplication3\source.cpp(93): warning C4018: '<=': signed/unsigned mismatch
+d:\visual basic projeler\consoleapplication3\consoleapplication3\source.cpp(288): warning C4018: '<': signed/unsigned mismatch
+d:\visual basic projeler\consoleapplication3\consoleapplication3\source.cpp(298): warning C4018: '<': signed/unsigned mismatch
+d:\visual basic projeler\consoleapplication3\consoleapplication3\source.cpp(324): warning C4018: '<': signed/unsigned mismatch
+d:\visual basic projeler\consoleapplication3\consoleapplication3\source.cpp(332): warning C4018: '<': signed/unsigned mismatch
+  ConsoleApplication3.vcxproj -> D:\Visual Basic projeler\ConsoleApplication3\Debug\ConsoleApplication3.exe
